@@ -48,23 +48,23 @@ The `GraphWithDifferentiation` class is a subclass of `Graph` that adds support 
 The library provides various node classes representing different operations or activations that can be performed on the values in the graph. These include `ParameterNode`, `TrainableNode`, `AdditionNode`, `SubtractionNode`, `MultiplicationNode`, `DivisionNode`, `PowerNode`, `ExponentialNode`, `LogarithmNode`, `ReLUActivationNode`, `SigmoidActivationNode`, `TanhActivationNode`, `MatrixMultiplicationNode`, `Convolution2DNode`, `MaxPooling2DNode`, `FlattenNode`, `DropoutNode`, and more. Each specific node class inherits from the `Node` class and overrides the `calculate()` method to define its specific calculation.
 
 5. **Main Function**
-The `main()` function serves as an example of how to use the library. It demonstrates the creation of a graph, the instantiation of various nodes, connecting them, performing calculations,
+The `main()` function serves as an example of how to use the library. It demonstrates the creation of a graph, the instantiation of various nodes, connecting them, performing calculations.<br>
 
-.
-
-To use the DGPY library, you can create an instance of the Graph class and add nodes to it. Then, you can connect the nodes together to define the computation graph. Finally, you can call the calculate_topological_order method to perform the forward propagation and obtain the calculated values.
+To use the DGPY library, you can create an instance of the Graph class and add nodes to it. Then, you can connect the nodes together to define the computation graph. Finally, you can call the calculate_topological_order method to perform the forward propagation and obtain the calculated values.<br>
 
 
 ### Dependencies
 
-The DGPY library has the following dependencies:
+The DGPY library has the following dependencies:<br>
 
-numpy: A library for numerical computing in Python.
+numpy: A library for numerical computing in Python.<br>
 
-Make sure to install the dependencies before using the library.
+Make sure to install the dependencies before using the library.<br>
+
 ### License
 
-The DGPY library is released under the XYZ License. You can find the full license text in the LICENSE file.
+The DGPY library is released under the XYZ License. You can find the full license text in the LICENSE file.<br>
 
 ### Contact
+
 For any questions or support regarding the DGPY library, please contact the author at fardinbhi@gmail.com.
