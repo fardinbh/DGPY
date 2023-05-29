@@ -2,11 +2,12 @@
 
 DGPY is a Python library that provides a computational graph framework for building and executing deep learning models. It provides a set of classes to create and connect nodes representing mathematical operations and activations. The library supports forward propagation and backpropagation for gradient computation.
 
-To use the DGPY library, follow these steps:
+### To use the DGPY library, follow these steps:
 
 Install Python: Make sure you have Python installed on your system. You can download Python from the official website: Python.org.
 Install NumPy: DGPY depends on the NumPy library for array operations. Install NumPy by running the following command in your terminal or command prompt:
-    pip install numpy
+  
+  -- pip install numpy --
 Download DGPY library: Copy the code for the DGPY library provided in the question and save it to a Python file, for example, dgpy.py.
 
 Start using DGPY: You can now import the DGPY library in your Python code and start using it. For example:
@@ -15,7 +16,7 @@ Start using DGPY: You can now import the DGPY library in your Python code and st
 
 The DGPY library provides several classes to create and connect nodes in a computation graph. Here's an overview of the available classes:
 
-    Graph: Represents a computation graph and provides methods for managing nodes, calculating values, and performing backpropagation.
+    * Graph: Represents a computation graph and provides methods for managing nodes, calculating values, and performing backpropagation.
 
     Node: Base class for all nodes in the graph. It defines the basic functionality and interface for nodes.
 
