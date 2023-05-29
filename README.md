@@ -9,13 +9,12 @@ Install NumPy: DGPY depends on the NumPy library for array operations. Install N
 ```pip install numpy```<br>
 Download DGPY library: Copy the code for the DGPY library provided in the question and save it to a Python file, for example, dgpy.py.<br>
 
-Start using DGPY: You can now import the DGPY library in your Python code and start using it. For example:
-
+Start using DGPY: You can now import the DGPY library in your Python code and start using it.<br>
 ## Usage
 
 The DGPY library provides several classes to create and connect nodes in a computation graph. Here's an overview of the available classes:
 
-*The provided code represents a library called "DGPY" (short for "Deep Graph Library in Python"), which allows you to define and perform computations on computational graphs. The library provides a set of classes for creating and manipulating nodes in a graph, as well as functions for calculating values, gradients, and performing backpropagation. Here's a comprehensive explanation of the library's usage:
+*The provided code represents a library called "DGPY" (short for "Deep Graph Library in Python"), which allows you to define and perform c
 
 1. **Graph Class**
 The `Graph` class represents a computational graph. It provides methods for managing nodes, connecting them, calculating values, updating gradients, and finding the topological order of the nodes in the graph. The main methods of the `Graph` class are:
