@@ -14,8 +14,6 @@ DGPY is a Python library that provides a computational dynamic graph framework f
 
 The DGPY library provides several classes to create and connect nodes in a computation graph. Here's an overview of the available classes:
 
-*The provided code represents a library called "DGPY" (short for "Deep Graph Library in Python"), which allows you to define and perform c
-
 1. **Graph Class**
 The `Graph` class represents a computational graph. It provides methods for managing nodes, connecting them, calculating values, updating gradients, and finding the topological order of the nodes in the graph. The main methods of the `Graph` class are:
 
