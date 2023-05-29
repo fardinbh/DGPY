@@ -1,6 +1,6 @@
 # DGPY Library
 
-DGPY is a Python library that provides a computational graph framework for building and executing deep learning models. It provides a set of classes to create and connect nodes representing mathematical operations and activations. The library supports forward propagation and backpropagation for gradient computation.
+DGPY is a Python library that provides a computational dynamic graph framework for building and executing deep learning models. It provides a set of classes to create and connect nodes representing mathematical operations and activations. The library supports forward propagation and backpropagation for gradient computation.
 
 ### To use the DGPY library, follow these steps:
 
