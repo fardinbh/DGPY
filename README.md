@@ -5,7 +5,7 @@ DGPY is a Python library that provides a computational graph framework for build
 ### To use the DGPY library, follow these steps:
 
 Install Python: Make sure you have Python installed on your system. You can download Python from the official website: Python.org.
-Install NumPy: DGPY depends on the NumPy library for array operations. Install NumPy by running the following command in your terminal or command prompt:
+Install NumPy: DGPY depends on the NumPy library for array operations. Install NumPy by running the following command in your terminal or command prompt:/n
   
 ```pip install numpy```
 Download DGPY library: Copy the code for the DGPY library provided in the question and save it to a Python file, for example, dgpy.py.
