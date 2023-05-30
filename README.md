@@ -1,18 +1,18 @@
-# DGPY Library
+# DYGPY Library
 
-DGPY is a Python library that provides a computational dynamic graph framework for building and executing deep learning models. It provides a set of classes to create and connect nodes representing mathematical operations and activations. The library supports forward propagation and backpropagation for gradient computation.
+DYGPY is a Python library that provides a computational dynamic graph framework for building and executing deep learning models. It provides a set of classes to create and connect nodes representing mathematical operations and activations. The library supports forward propagation and backpropagation for gradient computation.
 
-### To use the DGPY library, follow these steps:
+### To use the DYGPY library, follow these steps:
 
 `1.` Install Python: Make sure you have Python installed on your system. You can download Python from the official website: Python.org.<br>
-`2.` Install NumPy: DGPY depends on the NumPy library for array operations. Install NumPy by running the following command in your terminal or command prompt:<br> 
+`2.` Install NumPy: DYGPY depends on the NumPy library for array operations. Install NumPy by running the following command in your terminal or command prompt:<br> 
 ```pip install numpy```<br>
-`3.` Download DGPY library<br>
+`3.` Download DYGPY library<br>
 
-`4.` Start using DGPY: You can now import the DGPY library in your Python code and start using it.<br>
+`4.` Start using DYGPY: You can now import the DYGPY library in your Python code and start using it.<br>
 ## Usage
 
-The DGPY library provides several classes to create and connect nodes in a computation graph. Here's an overview of the available classes:
+The DYGPY library provides several classes to create and connect nodes in a computation graph. Here's an overview of the available classes:
 
 1. **Graph Class**
 The `Graph` class represents a computational graph. It provides methods for managing nodes, connecting them, calculating values, updating gradients, and finding the topological order of the nodes in the graph. The main methods of the `Graph` class are:
